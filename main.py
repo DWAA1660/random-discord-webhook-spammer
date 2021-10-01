@@ -83,4 +83,4 @@ while 1:
     msg = ("@everyone your moms sus")
         
     data = requests.post(webhook1, json={'content': msg})
-    time.sleep(5)
+    time.sleep(2)
